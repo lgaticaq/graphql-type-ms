@@ -1,6 +1,6 @@
 {
   "name": "graphql-type-ms",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ms scalar type for GraphQL.js",
   "main": "src",
   "scripts": {
