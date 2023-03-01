@@ -44,8 +44,8 @@
     "husky": "0.14.3",
     "istanbul": "0.4.5",
     "lint-staged": "7.3.0",
-    "mocha": "5.2.0",
-    "prettier-standard": "8.0.1"
+    "mocha": "10.2.0",
+    "prettier-standard": "16.4.1"
   },
   "peerDependencies": {
     "graphql": ">=0.8.0"
